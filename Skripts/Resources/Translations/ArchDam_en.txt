@@ -1,0 +1,16 @@
+Axis_name
+Dam_type
+Altitude_foot_dam_(m.asl)
+Assumed_foundation_elevation_(m.asl)
+Normal_water_level_(m.asl)
+Crest_elevation_(m.asl)
+Max_height_dam_(m)
+Width_base_(m)
+Width_crest_(m)
+Witdh_0.45_(m)
+Width_L1(m)
+Crest_lenght_(m)
+Slenderness_coef
+Surface_US_(m2)
+Volume_(hm3)
+Boldness_factor

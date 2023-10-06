@@ -1,0 +1,7 @@
+Nom_de_l'axe
+Type_de_barrage
+Niveau_Normal_(m.s.m.)
+Section_niveau_d'eau_min_(m.s.m.)
+Section_niveau_d'eau_max_(m.s.m.)
+Section_volume_(hm3)
+Volume_mort_(boolean)

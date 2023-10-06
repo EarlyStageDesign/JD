@@ -1,0 +1,7 @@
+Axis_name
+Dam_type
+Normal_water_level_(m.asl)
+Section_water_level_min_(m.asl)
+Section_water_level_max_(m.asl)
+Section_storage_capacity_(hm3)
+Dead_storage_(boolean)
