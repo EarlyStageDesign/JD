@@ -1,3 +1,7 @@
 
 *.3dmbak
 *.ghdata
+Skripts/ghData/ArchDam_test_to_export.ghdata
+*.ghdata
+Skripts/ghData/Water_test_to_export.ghdata
+Skripts/ghData/DamAxis.ghdata

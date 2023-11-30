@@ -2,7 +2,7 @@ Nom_de_l'axe
 Type_de_barrage
 Niveau_bas_du_terrain_(m.s.m.) 
 Niveau_assumé_fondation_(m.s.m.)
-Niveau_normal_plan_d’ea_(m.s.m.)
+Niveau_plan_d’ea_(m.s.m.)
 Niveau_Couronnement_(m.s.m.)
 Hauteur_max_l’ouvrage_(m)
 Largeur_base_(m)
