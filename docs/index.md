@@ -2,7 +2,7 @@
 
 Stress test is currently in Jumping Dams [EXT] - General (updated 28.06.24)
 
-
+<details>
  <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -13,4 +13,4 @@ Stress test is currently in Jumping Dams [EXT] - General (updated 28.06.24)
       </ul>
     </li>
   </ol>
-
+</details>
